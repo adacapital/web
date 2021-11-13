@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import "antd/dist/antd.css";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -8,6 +9,10 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  // <React.Fragment>
+  //   <h1>Hello World</h1>
+  //   <h2>Sub toto heading</h2>
+  // </React.Fragment>,
   document.getElementById('root')
 );
 
