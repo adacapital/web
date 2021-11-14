@@ -28,6 +28,20 @@
         "www.adacapital.io"
       ],
       "renewAt": 1
+    },
+    {
+      "subject": "adact.io",
+      "altnames": [
+        "adact.io"
+      ],
+      "renewAt": 1
+    },
+    {
+      "subject": "www.adact.io",
+      "altnames": [
+        "www.adact.io"
+      ],
+      "renewAt": 1
     }
   ]
 }
