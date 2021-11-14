@@ -30,7 +30,7 @@ SyslogIdentifier=run.adacapital.web
 WantedBy=multi-user.target
 EOF
 
-sudo mv $SCRIPT_DIR/run.adacapital.web.service /etc/systemd/system/run.adacapital.web.service
+sudo mv $SCRIPT_DIR/run.adacapital-web.service /etc/systemd/system/run.adacapital-web.service
 sudo systemctl daemon-reload
 sudo systemctl enable run.adacapital.web
 
