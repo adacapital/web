@@ -37,4 +37,4 @@ sudo systemctl enable run.adacapital.web
 echo
 echo '---------------- Setup completed ----------------'
 
-sudo systemctl status run.adacapital.web --no-pager
+sudo systemctl status run.adacapital-web --no-pager
