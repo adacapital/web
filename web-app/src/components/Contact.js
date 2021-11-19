@@ -22,7 +22,7 @@ const Contact = () => {
                           </a>
                           </div>
                           <div class="col-12 col-lg-2">
-                          <a class="a-lnk" href="https://t.me/adacapital" target="_blank" rel="noopener noreferrer">
+                          <a class="a-lnk" href="https://t.me/joinchat/lvh0_5KJGz5jNGE0" target="_blank" rel="noopener noreferrer">
                               <div class="card glow-on-hover align-items-center justify-content-center" style={{width: "75px", height: "75px"}}><FaTelegramPlane size={60} /></div>
                           </a>
                           </div>
