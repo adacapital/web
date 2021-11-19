@@ -114,7 +114,7 @@ const Staking = () => {
                 </div>
                 <div class="row align-items-center justify-content-center p-4 col-12">
                     <div id="cardGrp2_default_content">
-                        <div class="card-static slide-in-bottom" style={{ width: '70%'}}>
+                        <div class="card-static slide-in-bottom custom-width-70">
                             <span class="badge rounded-pill bg-success-bright" style={{float: 'right'}}><strong>LIVE</strong></span>
                             <div class="card-static-item">
                                 <div class="card-static-item-title">Pool Ticker</div>
@@ -216,7 +216,7 @@ const Staking = () => {
                         <div class="d-flex align-items-center justify-content-center">
                             <figure>
                                 <h6>
-                                <ul style={{paddingLeft: '100px'}}>
+                                <ul style={{paddingLeft: '90px'}}>
                                     <li class="pt-1"><strong>Stake size award</strong>: 2.5% of total reward will go to delegators with the 3 largest delegations.</li>
                                     <li class="pt-1"><strong>Loyalty award</strong>: 2.5% of total reward will go to delegators with the 3 highest delegation durations.</li>
                                     <li class="pt-1">This scheme will run <strong>each epoch</strong> until pool saturation.</li>
