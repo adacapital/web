@@ -238,7 +238,7 @@ const Staking = () => {
                         <p class="large-first-letter">We are a team of highly skilled <strong>IT Professionals</strong> with a combined <strong>20+ years</strong> of experience in managing and developing high availability, business critical, distributed systems for the Financial Services Industry.</p>
                         <p class="large-first-letter">Our pool's <strong>system architectures</strong> follows first-class principles in <strong>Security</strong>, <strong>Resiliency</strong> and <strong>Monitoring</strong>. These principles ensure that our pool is up and running <strong>24/7</strong> to forge blocks and produce rewards for our delegators.</p>
                         <p class="large-first-letter">Some of our pool's key features:</p>
-                        <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom" style={{ width: '60%'}}>
+                        <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom custom-width-70">
                         <figure>
                             <ul style={{paddingLeft: '10px'}}>
                                 <li class="pt-1"><a class="a-grad1 glow-on-hover" href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli" target="_blank" rel="noopener noreferrer"><strong>Hub-spoke</strong></a> Cloud native architecture to promote a higher security model and workload isolation between Cardano nodes.</li>
@@ -252,9 +252,9 @@ const Staking = () => {
                     <div id="cardGrp2_4_content" style={{display: 'none'}}>
                         <p class="large-first-letter">We actively support the Cardano Testnet by running the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><strong>ADACT Testnet Pool</strong></a> 24/7.</p>
                         <p class="large-first-letter">We commit <strong>financial resources, time and effort</strong> to keep our Testnet pool running because we believe it is crucial for Cardano to have a <strong>state-of-the-art Testnet</strong> as it allows the Cardano Developer Community to test, refine and perfect their projects and initiatives before bringing them to Mainnet and <strong>add new utilities on Cardano</strong>.</p>
-                        <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom" style={{ height: '580px', width: '490px'}}>
-                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><img src="img/adact_testnet_card.png" alt="" /></a>
-                        </div>
+                        {/* <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom" style={{ width: '50%'}}> */}
+                            <div class="d-flex align-items-center justify-content-center"><a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><img src="img/adact_testnet_card.png" alt="" class="responsive-image"/></a></div>
+                        {/* </div> */}
                     </div>
                 </div>
             </div>
