@@ -6,7 +6,7 @@ SCRIPT_DIR="$(realpath "$(dirname "$0")")"
 echo
 echo '---------------- Getting our app set up as a systemd service ----------------'
 
-cat > $SCRIPT_DIR/run.adacapital-web.service << EOF
+cat > $SCRIPT_DIR/run.adacapital.web.service << EOF
 [Unit]
 Description=ADA Capital web app Run Script
 Wants=network-online.target
@@ -30,11 +30,11 @@ SyslogIdentifier=run.adacapital.web
 WantedBy=multi-user.target
 EOF
 
-sudo mv $SCRIPT_DIR/run.adacapital-web.service /etc/systemd/system/run.adacapital-web.service
+sudo mv $SCRIPT_DIR/run.adacapital.web.service /etc/systemd/system/run.adacapital.web.service
 sudo systemctl daemon-reload
 sudo systemctl enable run.adacapital.web
 
 echo
 echo '---------------- Setup completed ----------------'
 
-sudo systemctl status run.adacapital-web --no-pager
+sudo systemctl status run.adacapital.web --no-pager
