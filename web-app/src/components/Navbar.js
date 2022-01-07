@@ -22,16 +22,16 @@ const Navbar = () => {
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#scrollspyStaking">Staking</a>
+              <a class="nav-link" href="#staking">Staking</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#scrollspyEducation">Education</a>
+              <a class="nav-link" href="#education">Education</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#scrollspyBuild">Build</a>
+              <a class="nav-link" href="#build">Build</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#scrollspyContact">Contact</a>
+              <a class="nav-link" href="#contact">Contact</a>
             </li>
           </ul>
         </div>

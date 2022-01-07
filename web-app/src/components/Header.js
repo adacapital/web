@@ -29,13 +29,13 @@ const Header = () => {
           </div>
         </div>
         <div class="row align-items-center justify-content-center">
-            <div class="col-md-5"><a href="#scrollspyStaking" class="popup-button glow-on-hover">Staking</a></div>
+            <div class="col-md-5"><a href="#staking" class="popup-button glow-on-hover">Staking</a></div>
           </div>
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-5"><a href="#scrollspyEducation" class="popup-button glow-on-hover">Education</a></div>
+            <div class="col-md-5"><a href="#education" class="popup-button glow-on-hover">Education</a></div>
           </div>
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-5"><a href="#scrollspyBuild" class="popup-button glow-on-hover">Build</a></div>
+            <div class="col-md-5"><a href="#build" class="popup-button glow-on-hover">Build</a></div>
           </div>
       </div>
       <svg id="svg" viewBox="0 0 1440 260" xmlns="http://www.w3.org/2000/svg" class="row transition duration-300 ease-in-out delay-150">

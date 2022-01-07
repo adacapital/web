@@ -3,7 +3,7 @@ import { FaTwitter, FaTelegramPlane, FaMediumM, FaYoutube, FaGithub } from 'reac
 
 const Contact = () => {
   return (
-      <div class="page-header bg-dark" id="scrollspyContact">
+      <div class="page-header bg-dark" id="contact">
           <div class="container">
               <div class="row align-items-center justify-content-center">
                   <div class="col-12 d-flex justify-content-center">

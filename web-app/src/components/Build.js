@@ -2,7 +2,7 @@ import React from 'react'
 
 const Build = () => {
   return (
-      <div class="page-header bg-dark" id="scrollspyBuild">
+      <div class="page-header bg-dark" id="build">
           <div class="container">
               <div class="row align-items-center justify-content-center">
                   <div class="col-12 d-flex justify-content-center">
@@ -91,7 +91,7 @@ const Build = () => {
                           <div class="card-static-item">
                               <div class="card-static-item-title">Github</div>
                               <div class="card-static-item-value">
-                                  <a class="a-grad1 glow-on-hover no-pointer" target="_blank" rel="noopener noreferrer"><strong>coming soon...</strong></a>
+                                  <a class="a-grad1 glow-on-hover" href="https://github.com/adacapital/cardanobi" target="_blank" rel="noopener noreferrer"><strong>adacapital/cardanobi</strong></a>
                               </div>
                           </div>
                       </div>

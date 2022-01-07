@@ -2,7 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-      <div class="page-header bg-dark" id="scrollspyEducation">
+      <div class="page-header bg-dark" id="education">
           <div class="container">
               <div class="row align-items-center justify-content-center">
                   <div class="col-12 d-flex justify-content-center">

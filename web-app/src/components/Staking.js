@@ -40,7 +40,7 @@ const Staking = () => {
     }
 
     return (
-        <div class="page-header bg-dark" id="scrollspyStaking">
+        <div class="page-header bg-dark" id="staking">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col d-flex justify-content-center">
@@ -151,7 +151,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Live Stake</div>
-                                        <div class="card-static-item-value"><strong><span>82,317<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>77,810<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -193,7 +193,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Delegators</div>
-                                        <div class="card-static-item-value"><strong><span>7</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>8</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -250,10 +250,13 @@ const Staking = () => {
                         </div>
                     </div>
                     <div id="cardGrp2_4_content" style={{display: 'none'}}>
-                        <p class="large-first-letter">We actively support the Cardano Testnet by running the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><strong>ADACT Testnet Pool</strong></a> 24/7.</p>
+                        <p class="large-first-letter">We actively support the Cardano Testnet by running the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><strong>ADACT Testnet Pool</strong></a> and the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3F4jk6H" target="_blank" rel="noopener noreferrer"><strong>ADAKT Peer-to-Peer Testnet Pool</strong></a> 24/7.</p>
                         <p class="large-first-letter">We commit <strong>financial resources, time and effort</strong> to keep our Testnet pool running because we believe it is crucial for Cardano to have a <strong>state-of-the-art Testnet</strong> as it allows the Cardano Developer Community to test, refine and perfect their projects and initiatives before bringing them to Mainnet and <strong>add new utilities on Cardano</strong>.</p>
                         {/* <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom" style={{ width: '50%'}}> */}
-                            <div class="d-flex align-items-center justify-content-center"><a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><img src="img/adact_testnet_card.png" alt="" class="responsive-image"/></a></div>
+                            <div class="d-flex align-items-center justify-content-center">
+                                <a class="a-grad1 glow-on-hover" href="https://bit.ly/3wluNw0" target="_blank" rel="noopener noreferrer"><img src="img/adact_testnet_card.png" alt="" class="responsive-image"/></a>
+                                <a class="a-grad1 glow-on-hover" href="https://bit.ly/3F4jk6H" target="_blank" rel="noopener noreferrer"><img src="img/adakt_testnet_card.png" alt="" class="responsive-image"/></a>
+                            </div>
                         {/* </div> */}
                     </div>
                 </div>
