@@ -157,7 +157,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Margin</div>
-                                        <div class="card-static-item-value"><strong><span>5%<sup class="glow-on-hover no-pointer"> <a class="a-grad1 no-pointer" target="_blank" rel="noopener noreferrer">ADA CAPITAL REWARDS<sup>*</sup></a></sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>4%<sup class="glow-on-hover no-pointer"> <a class="a-grad1 no-pointer" target="_blank" rel="noopener noreferrer">ADA CAPITAL REWARDS<sup>*</sup></a></sup></span></strong></div>
                                     </div>
                                 </div>
                             {/* </div>
@@ -217,8 +217,8 @@ const Staking = () => {
                             <figure>
                                 <h6>
                                 <ul style={{paddingLeft: '90px'}}>
-                                    <li class="pt-1"><strong>Stake size award</strong>: 2.5% of total reward will go to delegators with the 3 largest delegations.</li>
-                                    <li class="pt-1"><strong>Loyalty award</strong>: 2.5% of total reward will go to delegators with the 3 highest delegation durations.</li>
+                                    <li class="pt-1"><strong>Stake size award</strong>: 2% of total reward will go to delegators with the 3 largest delegations.</li>
+                                    <li class="pt-1"><strong>Loyalty award</strong>: 2% of total reward will go to delegators with the 3 highest delegation durations.</li>
                                     <li class="pt-1">This scheme will run <strong>each epoch</strong> until pool saturation.</li>
                                     <li class="pt-1">Once pool saturation is reached, the pool margin <strong>will be reduced to 1.99%.</strong></li>
                                 </ul>
