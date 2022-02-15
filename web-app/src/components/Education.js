@@ -17,7 +17,7 @@ const Education = () => {
                   <div class="col-12 d-flex align-items-center justify-content-center p-4">
                       <div class="card-static slide-in-bottom align-items-center justify-content-center" style={{ width: '70%' }}>
                           <div class="align-items-center"><a class="a-grad1 glow-on-hover" href="https://medium.com/ada-capital" target="_blank" rel="noopener noreferrer"><strong>ADA Capital</strong> Medium Publications</a></div>
-                          <div id="medium-widget"></div>
+                          {/* <div id="medium-widget"></div> */}
                       </div>
                   </div>
               </div>
