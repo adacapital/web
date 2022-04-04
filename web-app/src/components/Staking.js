@@ -220,7 +220,7 @@ const Staking = () => {
                                     <li class="pt-1"><strong>Stake size award</strong>: 2% of our fixed costs will go to the delegator with the largest delegation.</li>
                                     <li class="pt-1"><strong>Loyalty award</strong>: 2% of our fixed costs will go to the delegator with the oldest delegation.</li>
                                     <li class="pt-1">This scheme will run <strong>each epoch</strong> until pool saturation.</li>
-                                    <li class="pt-1">Once pool saturation is reached, the pool margin <strong>will be reduced to 1.99%.</strong></li>
+                                    <li class="pt-1">Once pool saturation is reached, the pool margin <strong>will be set to 1.99%.</strong></li>
                                 </ul>
                                 </h6>
                             </figure>
