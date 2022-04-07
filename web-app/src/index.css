@@ -4,6 +4,7 @@ body {
   font-size: 1rem;
   /* font-color: rgb(85, 75, 75); */
   font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -331,9 +332,8 @@ a.navbar-brand {
  * ---------------------------------------------- */
  @-webkit-keyframes slide-in-bottom{0%{-webkit-transform:translateY(1000px);transform:translateY(1000px);opacity:0}100%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}}@keyframes slide-in-bottom{0%{-webkit-transform:translateY(1000px);transform:translateY(1000px);opacity:0}100%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}}
 
-
  /* scroll anchors */
- #staking{
+#staking{
   scroll-margin-top: 150px;
 }
 #education{

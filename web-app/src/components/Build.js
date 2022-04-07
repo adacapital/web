@@ -71,21 +71,19 @@ const Build = () => {
                           <div class="card-static-item">
                               <div class="card-static-item-title">Project Name</div>
                               <div class="card-static-item-value h4">
-                                  <strong>
-                                      cardanobi.io (Cardano Business Intelligence)
-                                  </strong>
+                                <a class="a-grad1 glow-on-hover" href="https://cardanobi.io" target="_blank" rel="noopener noreferrer"><strong>CardanoBI</strong></a>
                               </div>
                           </div>
                           <div class="card-static-item">
                               <div class="card-static-item-title">Description</div>
                               <div class="card-static-item-value">
-                                  A business intelligence API layer to provide on-chain analytics and enable new data-driven services on Cardano.
+                                  A Business Intelligence API layer on Cardano to provide on-chain analytics and enable new data-driven services.
                               </div>
                           </div>
                           <div class="card-static-item">
                               <div class="card-static-item-title">Partnership</div>
                               <div class="card-static-item-value">
-                                  We are exited to partner with <br/><a class="a-grad1 glow-on-hover" href="https://zeteticstakepool.com" target="_blank" rel="noopener noreferrer"><strong>ZETETIC Stake Pool</strong></a> to deliver value faster to the community.
+                                  We are exited to partner with <br/><a class="a-grad1 glow-on-hover" href="https://zetetic.tech/" target="_blank" rel="noopener noreferrer"><strong>ZETETIC Stake Pool</strong></a> to deliver value faster to the community.
                               </div>
                           </div>
                           <div class="card-static-item">
