@@ -19,7 +19,7 @@ const Navbar = () => {
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul class="navbar-nav no-wrap">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active" aria-current="page" href="#home">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#staking">Staking</a>

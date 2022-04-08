@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <header class="page-header bg-dark">
+    <header class="page-header bg-dark" id="home">
       <svg id="svg2" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg" class="row transition duration-300 ease-in-out delay-150"><defs><linearGradient id="gradient"><stop offset="5%" stop-color="#00f6ffff"></stop><stop offset="95%" stop-color="#d6ff30ff"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 141.75,221.28571428571428 283.5,242.57142857142856 401,256 C 518.5,269.42857142857144 611.7499999999999,275 722,268 C 832.2500000000001,261 959.5000000000002,241.42857142857142 1082,228 C 1204.4999999999998,214.57142857142858 1322.25,207.28571428571428 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" class="transition-all duration-300 ease-in-out delay-150" transform="rotate(-180 720 200)"></path></svg>
       <div class="container pt-5">
         <div class="row align-items-center justify-content-center">
