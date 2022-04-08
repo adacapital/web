@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="img/adacapital_logo2_white4.svg" style={{width: '300px', height: '55px'}} alt="" /></a>
+        <a class="navbar-brand" href="#home"><img src="img/adacapital_logo2_white4.svg" style={{width: '300px', height: '55px'}} alt="" /></a>
         <button
           class="navbar-toggler"
           type="button"
