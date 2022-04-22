@@ -218,11 +218,6 @@ const Staking = () => {
                                             </a>
                                             </div>
                                             <div class="col-12 col-lg-2">
-                                            <a class="a-lnk" href="https://pooltool.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                <div class="card glow-on-hover align-items-center justify-content-center" style={{width: "75px", height: "75px"}}><img src="img/pooltool_logo_white.svg" style={{width: '50px', height: '50px'}} alt="" /></div>
-                                            </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
                                             <a class="a-lnk" href="https://adapools.org/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
                                                 <div class="card glow-on-hover align-items-center justify-content-center" style={{width: "75px", height: "75px"}}><img src="img/ADA_pools_new-05.svg" style={{width: '50px', height: '50px'}} alt="" /></div>
                                             </a>
@@ -230,6 +225,11 @@ const Staking = () => {
                                             <div class="col-12 col-lg-2">
                                             <a class="a-lnk" href="https://adatools.io/pools/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
                                                 <div class="card glow-on-hover align-items-center justify-content-center" style={{width: "75px", height: "75px"}}><img src="img/uploads_ada-tools-io_1646574885408.webp" style={{width: '50px', height: '50px'}} alt="" /></div>
+                                            </a>
+                                            </div>
+                                            <div class="col-12 col-lg-2">
+                                            <a class="a-lnk" href="https://pooltool.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
+                                                <div class="card glow-on-hover align-items-center justify-content-center" style={{width: "75px", height: "75px"}}><img src="img/pooltool_logo_white.svg" style={{width: '50px', height: '50px'}} alt="" /></div>
                                             </a>
                                             </div>
                                         </div>
