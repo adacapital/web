@@ -8,7 +8,12 @@ body {
   scroll-behavior: smooth;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #fff;
 }
 
@@ -24,11 +29,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container-flex {
-  display:inline-flex;
-  flex-wrap:wrap;
+  display: inline-flex;
+  flex-wrap: wrap;
 }
+
 .flex-direction {
-  flex-direction:row;
+  flex-direction: row;
 }
 
 a.navbar-brand {
@@ -36,13 +42,13 @@ a.navbar-brand {
 }
 
 .gradient1 {
-  background: rgb(214,255,48);
-  background: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background: rgb(214, 255, 48);
+  background: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
 }
 
 .gradient2 {
-  background: rgb(255,100,100);
-  background: linear-gradient(90deg, rgba(255,100,100,1) 0%, rgba(214,255,48,1) 47%, rgba(0,246,255,1) 89%);
+  background: rgb(255, 100, 100);
+  background: linear-gradient(90deg, rgba(255, 100, 100, 1) 0%, rgba(214, 255, 48, 1) 47%, rgba(0, 246, 255, 1) 89%);
 }
 
 .gradient3 {
@@ -67,9 +73,9 @@ a.navbar-brand {
 
 .hr1 {
   border: 0 !important;
-  height: 2px !important; 
+  height: 2px !important;
   background: #095484 !important;
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%) !important;
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%) !important;
   opacity: 1.0;
 }
 
@@ -78,7 +84,7 @@ a.navbar-brand {
   text-decoration: none;
   position: relative;
   overflow: hidden;
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
   background-size: 100% 2px;
   background-repeat: no-repeat;
   background-position-y: bottom;
@@ -96,13 +102,17 @@ a.navbar-brand {
   width: 340px;
   height: 340px;
   border: 0px solid blue;
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
 }
 
-/* ---- reset ---- */ 
+/* ---- reset ---- */
 /* body{ margin:0; font:normal 75% Arial, Helvetica, sans-serif; }  */
-.particles-js-canvas-el{ display: block; vertical-align: bottom; } 
-/* ---- particles.js container ---- */ 
+.particles-js-canvas-el {
+  display: block;
+  vertical-align: bottom;
+}
+
+/* ---- particles.js container ---- */
 /* #particles-js{ position:absolute; width: 30%; height: 30%; background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; }  */
 
 
@@ -115,19 +125,19 @@ a.navbar-brand {
   font-size: 0.8em;
   text-transform: uppercase;
   color: black;
-  
+
   /* Button shape & animation */
   border-radius: 48px;
   margin: 30px;
   padding: 0.8em 3em;
   background-size: 200% auto;
   color: black;
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 50%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 50%);
   transition: 0.4s;
 }
 
 .popup-button:hover {
-	background-position: right center;
+  background-position: right center;
 }
 
 /* Cards */
@@ -141,20 +151,20 @@ a.navbar-brand {
 }
 
 .bg-success-bright {
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
   color: black;
 }
 
 .bg-success-bright-orange {
-  background-image: linear-gradient(120deg, rgb(241, 136, 16) 30%, rgba(214,255,48,1) 90%);
+  background-image: linear-gradient(120deg, rgb(241, 136, 16) 30%, rgba(214, 255, 48, 1) 90%);
   color: black;
 }
 
 .card-static {
   text-align: left;
-  background-color: rgba(40,47,57,.7803921568627451);
+  background-color: rgba(40, 47, 57, .7803921568627451);
   border-radius: 20px;
-  padding: 30px 55px;
+  padding: 20px 50px;
   margin: 0 auto;
   margin-top: 10px;
   box-shadow: 0 10px 21px 0 #000;
@@ -172,9 +182,11 @@ a.navbar-brand {
   .custom-width-70 {
     width: 100%
   }
+
   .card-static {
     padding: 30px 25px;
   }
+
   .card-static-item-value {
     font-size: 0.9rem;
   }
@@ -182,8 +194,8 @@ a.navbar-brand {
 
 @media (min-width: 768px) {
   .col-md-6 {
-      flex: 0 0 auto;
-      width: 50%;
+    flex: 0 0 auto;
+    width: 50%;
   }
 }
 
@@ -192,6 +204,7 @@ a.navbar-brand {
     flex: 0 0 auto;
     width: 33.33333333%;
   }
+
   .col-lg-2 {
     flex: 0 0 auto;
     width: 20%;
@@ -231,7 +244,7 @@ a.navbar-brand {
 
 .card {
   text-align: center;
-  background-color: rgba(40,47,57,.7803921568627451);
+  background-color: rgba(40, 47, 57, .7803921568627451);
   border-radius: 20px;
   padding: 15px;
   margin: 0 auto;
@@ -239,14 +252,14 @@ a.navbar-brand {
   box-shadow: 0 10px 21px 0 #000;
   /* width: 33%; */
   height: 120px;
-  width: 240px; 
+  width: 240px;
   max-width: 320px;
   transition: 0.4s;
 }
 
 .card:hover {
   /* transform: translateY(0); */
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
   color: black;
   font-weight: bold;
   transition: 0.1s;
@@ -258,11 +271,11 @@ a.navbar-brand {
     inset -20px 0 300px rgb(208, 255, 0),
     0 0 50px #fff,
     -10px 0 80px #f0f,
-    10px 0 80px rgb(208, 255, 0); */  
+    10px 0 80px rgb(208, 255, 0); */
 }
 
 .card_focus {
-  background-image: linear-gradient(90deg, rgba(214,255,48,1) 0%, rgba(0,246,255,1) 83%);
+  background-image: linear-gradient(90deg, rgba(214, 255, 48, 1) 0%, rgba(0, 246, 255, 1) 83%);
   color: black;
   font-weight: bold;
   transition: 0.1s;
@@ -290,7 +303,7 @@ a.navbar-brand {
   background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
   position: absolute;
   top: -2px;
-  left:-2px;
+  left: -2px;
   background-size: 400%;
   z-index: -1;
   filter: blur(5px);
@@ -326,43 +339,89 @@ a.navbar-brand {
   border-radius: 10px;
 } */
 
-.glow-on-hover:after {
-}
+.glow-on-hover:after {}
 
 @keyframes glowing {
-  0% { background-position: 0 0; }
-  50% { background-position: 400% 0; }
-  100% { background-position: 0 0; }
+  0% {
+    background-position: 0 0;
+  }
+
+  50% {
+    background-position: 400% 0;
+  }
+
+  100% {
+    background-position: 0 0;
+  }
 }
 
 /* styling text areas */
 
 
-.slide-in-bottom{-webkit-animation:slide-in-bottom .2s cubic-bezier(.25,.46,.45,.94) both;animation:slide-in-bottom .2s cubic-bezier(.25,.46,.45,.94) both}
+.slide-in-bottom {
+  -webkit-animation: slide-in-bottom .2s cubic-bezier(.25, .46, .45, .94) both;
+  animation: slide-in-bottom .2s cubic-bezier(.25, .46, .45, .94) both
+}
+
 /* ----------------------------------------------
  * Generated by Animista on 2021-10-20 17:19:36
  * Licensed under FreeBSD License.
  * See http://animista.net/license for more info. 
  * w: http://animista.net, t: @cssanimista
  * ---------------------------------------------- */
- @-webkit-keyframes slide-in-bottom{0%{-webkit-transform:translateY(1000px);transform:translateY(1000px);opacity:0}100%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}}@keyframes slide-in-bottom{0%{-webkit-transform:translateY(1000px);transform:translateY(1000px);opacity:0}100%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}}
+@-webkit-keyframes slide-in-bottom {
+  0% {
+    -webkit-transform: translateY(1000px);
+    transform: translateY(1000px);
+    opacity: 0
+  }
 
- /* scroll anchors */
-#staking{
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1
+  }
+}
+
+@keyframes slide-in-bottom {
+  0% {
+    -webkit-transform: translateY(1000px);
+    transform: translateY(1000px);
+    opacity: 0
+  }
+
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1
+  }
+}
+
+/* scroll anchors */
+#staking {
   scroll-margin-top: 150px;
 }
-#pool{
+
+#pool {
   scroll-margin-top: 150px;
 }
-#education{
+
+#education {
   scroll-margin-top: 150px;
 }
-#build{
+
+#build {
   scroll-margin-top: 150px;
 }
 
 /* medium embedding div */
-.medium-widget-article__title, .medium-widget-article__description, .medium-widget-article__info, .medium-widget-article__author-name, .medium-widget-article__like, .medium-widget-article__clap, .medium-widget-article__date {
+.medium-widget-article__title,
+.medium-widget-article__description,
+.medium-widget-article__info,
+.medium-widget-article__author-name,
+.medium-widget-article__like,
+.medium-widget-article__clap,
+.medium-widget-article__date {
   color: white;
 }
 
@@ -370,6 +429,7 @@ a.navbar-brand {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAArUlEQVQ4jc2QPQ4BURRGz5OhUWglKkq16G3BBixAYQtjATZgA6JQaG1A1CqNSuzBRHI0JoxkgpdInOre5H4/ufBL1EQdq91Y8VLdqaeyu0qJuAosgDowAbJvkqvqSl2rNXWrjj4Rpj7Y3MUN9WqRg9rOdcmLzzQfQgjZvXrhRp0DQ2AGJT94Qws45kuMQQ/YRRmoHeASQjjHNug/p8cYDF4NnuulvmevNr8M/XduEYCX2asH9rsAAAAASUVORK5CYII=);
   opacity: 1.0
 }
+
 .medium-widget-article__clap:before {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVQ4jc3Sv0uWURjG8etJLRCjwCVcikBwCBwcqq0/oCV1LHSrRYKm2mrVQVoimoNwaBNsCBOEfpGb20tDoZmCEIaIEX0aPC+8PD1ZU3RP9+G6vve5DvdJ/qvCGZysnZ9jE8N/gi9gGx9xFKP4jFtYxDfM4CqONA24jWnsYg7vcR6PsYB7WMMqLre5zkmDSdaT9CY5neR+kqkk/Unmk0wmuZnkVJKLTQmWcclB3cWXcvM1fMAYNor2tc111xK0Sr+X5FWSK0n6kuwkeZjkTpLrSZ42JdhFX0nQhWMdWj/G8RLP8KkpwVKSidL/qKpqvy1UVbWNF0nOJhlI0tOUYKjs+zuGfjEceGbxtvOv1A2jZd/v6qYCv/kt3GEcwROs4Fx5/yO8xolD4dqgG2hhCw9w/K/hf1o/AZEHKM2Nibe7AAAAAElFTkSuQmCC);
   opacity: 1.0
