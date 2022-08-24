@@ -151,7 +151,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Live Stake</div>
-                                        <div class="card-static-item-value"><strong><span>133,929<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>146,009<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -185,7 +185,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Lifetime Blocks</div>
-                                        <div class="card-static-item-value"><strong><span>212</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>213</span></strong></div>
                                     </div>
                                 </div>
                                 {/* </div>
@@ -214,27 +214,32 @@ const Staking = () => {
                                         <div class="row  align-items-left justify-content-left" style={{ width: '100%' }}>
                                             <div class="col-12 col-lg-2">
                                                 <a class="a-lnk" href="https://pool.pm/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/pool.pm.svg" style={{ width: '50px', height: '50px' }} alt="" /></div>
-                                                </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
-                                                <a class="a-lnk" href="https://adapools.org/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/ADA_pools_new-05.svg" style={{ width: '50px', height: '50px' }} alt="" /></div>
-                                                </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
-                                                <a class="a-lnk" href="https://adatools.io/pools/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/uploads_ada-tools-io_1646574885408.webp" style={{ width: '50px', height: '50px' }} alt="" /></div>
-                                                </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
-                                                <a class="a-lnk" href="https://cardanoscan.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/cardanoscan-logo-light2x.png" style={{ width: '70px', height: '20px' }} alt="" /></div>
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/pool.pm.svg" style={{ width: '50px', height: '50px' }} alt="" title="pool.pm" /></div>
                                                 </a>
                                             </div>
                                             <div class="col-12 col-lg-2">
                                                 <a class="a-lnk" href="https://pooltool.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/pooltool_logo_white.svg" style={{ width: '50px', height: '50px' }} alt="" /></div>
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/pooltool_logo_white.svg" style={{ width: '50px', height: '50px' }} alt="" title="pooltool.io" /></div>
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-lg-2">
+                                                <a class="a-lnk" href="https://cexplorer.io/pool/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc" target="_blank" rel="noopener noreferrer">
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/cexplorer_logo_dark.svg" style={{ width: '50px', height: '50px' }} alt="" title="cexplorer.io" /></div>
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-lg-2">
+                                                <a class="a-lnk" href="https://adapools.org/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/ADA_pools_new-05.svg" style={{ width: '50px', height: '50px' }} alt="" title="adapools.org" /></div>
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-lg-2">
+                                                <a class="a-lnk" href="https://cardanoscan.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/cardanoscan-logo-light2x.png" style={{ width: '70px', height: '20px' }} alt="" title="cardanoscan.io" /></div>
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-lg-2">
+                                                <a class="a-lnk" href="https://adatools.io/pools/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
+                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/uploads_ada-tools-io_1646574885408.webp" style={{ width: '50px', height: '50px' }} alt="" title="adatools.io" /></div>
                                                 </a>
                                             </div>
                                         </div>
@@ -285,11 +290,15 @@ const Staking = () => {
                     </div>
                     <div id="cardGrp2_4_content" style={{ display: 'none' }}>
                         <p class="large-first-letter">We actively support the Cardano Testnet by running the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3SXdBb1" target="_blank" rel="noopener noreferrer"><strong>ADACT Testnet Pool</strong></a> and the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3ApV007" target="_blank" rel="noopener noreferrer"><strong>ADAKT Peer-to-Peer Testnet Pool</strong></a> 24/7.</p>
+                        <p class="large-first-letter">We also support the more recent Cardano Preview and PreProd testnets by running the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3AL7HCE" target="_blank" rel="noopener noreferrer"><strong>ADACT Preview Pool</strong></a> and the <a class="a-grad1 glow-on-hover" href="https://bit.ly/3PGnxms" target="_blank" rel="noopener noreferrer"><strong>ADACT PreProd Pool</strong></a> 24/7.</p>
                         <p class="large-first-letter">We commit <strong>financial resources, time and effort</strong> to keep our Testnet pools running because we believe it is crucial for Cardano to have a <strong>state-of-the-art Testnet</strong> as it allows the Cardano Developer Community to test, refine and perfect their projects and initiatives before bringing them to Mainnet and <strong>add new utilities on Cardano</strong>.</p>
                         {/* <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom" style={{ width: '50%'}}> */}
                         <div class="d-flex align-items-center justify-content-center">
-                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3SXdBb1" target="_blank" rel="noopener noreferrer"><img src="img/adact_testnet_card.png" alt="" class="responsive-image" /></a>
-                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3ApV007" target="_blank" rel="noopener noreferrer"><img src="img/adakt_testnet_card.png" alt="" class="responsive-image" /></a>
+                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3pEEwLx" target="_blank" rel="noopener noreferrer"><img src="img/badge_mainnet.png" alt="" class="responsive-image" /></a>
+                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3PGnxms" target="_blank" rel="noopener noreferrer"><img src="img/badge_preprod.png" alt="" class="responsive-image" /></a>
+                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3AL7HCE" target="_blank" rel="noopener noreferrer"><img src="img/badge_preview.png" alt="" class="responsive-image" /></a>
+                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3ApV007" target="_blank" rel="noopener noreferrer"><img src="img/badge_testnetp2p.png" alt="" class="responsive-image" /></a>
+                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3SXdBb1" target="_blank" rel="noopener noreferrer"><img src="img/badge_testnet.png" alt="" class="responsive-image" /></a>
                         </div>
                         {/* </div> */}
                     </div>
