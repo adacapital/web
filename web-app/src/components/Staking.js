@@ -58,7 +58,7 @@ const Staking = () => {
                         <IconCard Icon={BiNetworkChart} iconSize={40} tabIndex={3} grp_id={'cardGrp1'} id={'cardGrp1_3'} text={'Decentralization'} onItemClick={onItemClick} />
                     </div>
                     <div class="col-lg-3">
-                        <IconCard Icon={BsPersonBoundingBox} iconSize={40} tabIndex={4} grp_id={'cardGrp1'} id={'cardGrp1_4'} text={'Single Pool Operator'} onItemClick={onItemClick} />
+                        <IconCard Icon={BsPersonBoundingBox} iconSize={40} tabIndex={4} grp_id={'cardGrp1'} id={'cardGrp1_4'} text={'Single Pool'} onItemClick={onItemClick} />
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-center pt-3">
@@ -85,7 +85,7 @@ const Staking = () => {
                     <div id="cardGrp1_4_content" style={{ display: 'none' }}>
                         <p class="large-first-letter">Stake Pool Operators (SPOs) are responsible for processing transactions that will be placed in the ledger, as well as producing new blocks. As such SPOs are at the core of the <a class="a-grad1 glow-on-hover" href="https://iohk.io/en/blog/posts/2020/03/23/from-classic-to-hydra-the-implementations-of-ouroboros-explained/" target="_blank" rel="noopener noreferrer"><strong>Ouroboros</strong></a> protocol.</p>
                         <p class="large-first-letter">To be secure, <strong>Ouroboros</strong> requires a good number of stake pools to be online and maintain sufficiently good network connectivity at any given time.</p>
-                        <p class="large-first-letter">Single Pool Operators strive to <strong>increase</strong> the number of stake pools available to <strong>secure</strong> Cardano's network and to <strong>reduce</strong> the stake concentration effect that occurs when only a few entities control a large percentage of all stakes available.</p>
+                        <p class="large-first-letter"><strong>Single Pool Operators</strong> strive to <strong>increase</strong> the number of stake pools available to <strong>secure</strong> Cardano's network and to <strong>reduce</strong> the stake concentration effect that occurs when only a few entities control a large percentage of all stakes available.</p>
                     </div>
                 </div>
                 <br /><br />
@@ -106,7 +106,7 @@ const Staking = () => {
                         <IconCard Icon={GiNinjaHeroicStance} iconSize={40} tabIndex={3} grp_id={'cardGrp2'} id={'cardGrp2_3'} text={'Professional'} onItemClick={onItemClick} />
                     </div>
                     <div class="col-lg-3">
-                        <IconCard Icon={GiTeamIdea} iconSize={40} tabIndex={4} grp_id={'cardGrp2'} id={'cardGrp2_4'} text={'Community Support'} onItemClick={onItemClick} />
+                        <IconCard Icon={GiTeamIdea} iconSize={40} tabIndex={4} grp_id={'cardGrp2'} id={'cardGrp2_4'} text={'Community'} onItemClick={onItemClick} />
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-center pt-3">
