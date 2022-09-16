@@ -42,6 +42,20 @@
         "www.adact.io"
       ],
       "renewAt": 1
+    },
+    {
+      "subject": "nu.capital",
+      "altnames": [
+        "nu.capital"
+      ],
+      "renewAt": 1
+    },
+    {
+      "subject": "www.nu.capital",
+      "altnames": [
+        "www.nu.capital"
+      ],
+      "renewAt": 1
     }
   ]
 }
