@@ -83,7 +83,7 @@ const Build = () => {
                             <div class="card-static-item">
                                 <div class="card-static-item-title">Partnership</div>
                                 <div class="card-static-item-value">
-                                    We are exited to partner with <br /><a class="a-grad1 glow-on-hover" href="https://zetetic.tech/" target="_blank" rel="noopener noreferrer"><strong>ZETETIC Stake Pool</strong></a> to deliver value faster to the community.
+                                    We are excited to partner with <br /><a class="a-grad1 glow-on-hover" href="https://zetetic.tech/" target="_blank" rel="noopener noreferrer"><strong>ZETETIC Stake Pool</strong></a> to deliver value faster to the community.
                                 </div>
                             </div>
                             <div class="card-static-item">
