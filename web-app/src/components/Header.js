@@ -6,18 +6,20 @@ const Header = () => {
     <header class="page-header bg-dark" id="home">
       <svg id="svg2" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg" class="row transition duration-300 ease-in-out delay-150"><defs><linearGradient id="gradient"><stop offset="5%" stop-color="#00f6ffff"></stop><stop offset="95%" stop-color="#d6ff30ff"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 141.75,221.28571428571428 283.5,242.57142857142856 401,256 C 518.5,269.42857142857144 611.7499999999999,275 722,268 C 832.2500000000001,261 959.5000000000002,241.42857142857142 1082,228 C 1204.4999999999998,214.57142857142858 1322.25,207.28571428571428 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" class="transition-all duration-300 ease-in-out delay-150" transform="rotate(-180 720 200)"></path></svg>
 
-      {/* <div class="card-static slide-in-bottom">
+      <div class="card-static slide-in-bottom">
           <span class="badge rounded-pill bg-success-bright" style={{float: 'right'}}><strong>BREAKING NEWS</strong></span>
           <div class="card-static-item">
-              <div class="card-static-item-title">Update: 22/04/2022</div>
+              <div class="card-static-item-title">Update: 29/01/2023</div>
               <div class="card-static-item-value h6">
                   <strong>
-                      Our pool has been blessed with a whale delegation from the Cardano Foundation! {!!GoHeart && <GoHeart size={20} color='red'/>}<br/>For the next 3 months we will be forging blocks on a regular basis.<br/>
-                      Please delegate to <a class="a-grad1 glow-on-hover" href="#pool">ADACT</a> now to enjoy a higher yield.
+                      The Cardano Foundation delegation has returned! {!!GoHeart && <GoHeart size={20} color='red'/>}<br/>For the next 3 months, <a class="a-grad1 glow-on-hover" href="#pool">ADACT</a> will be forging blocks on a regular basis.<br/>
+                      Now is a great time to join us and support us:<br/>
+                      🚀We're #BuildingOnCardano <a class="a-grad1 glow-on-hover" href="https://cardanobi.io" target="_blank" rel="noopener noreferrer"><strong>CardanoBI</strong></a>.<br/>
+                      🌻 We give 20% of our revenues to <a class="a-grad1 glow-on-hover" href="https://solar-aid.org/" target="_blank" rel="noopener noreferrer"><strong>SolarAid</strong></a> to help them bring clean electricity to sub-Saharan Africa.
                   </strong>
               </div>
           </div>
-        </div> */}
+        </div>
 
       <div class="container pt-5">
 

@@ -151,13 +151,13 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Live Stake</div>
-                                        <div class="card-static-item-value"><strong><span>194,075<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>15,365,843<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Margin</div>
-                                        <div class="card-static-item-value"><strong><span>0%</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>4%</span></strong></div>
                                     </div>
                                 </div>
                                 {/* </div>
@@ -165,7 +165,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Pledge</div>
-                                        <div class="card-static-item-value"><strong><span>15,000<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>100,000<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -179,13 +179,13 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Saturation</div>
-                                        <div class="card-static-item-value"><strong><span>0.28%</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>21.7%</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Lifetime Blocks</div>
-                                        <div class="card-static-item-value"><strong><span>217</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>221</span></strong></div>
                                     </div>
                                 </div>
                                 {/* </div>
@@ -193,7 +193,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Delegators</div>
-                                        <div class="card-static-item-value"><strong><span>12</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>27</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
