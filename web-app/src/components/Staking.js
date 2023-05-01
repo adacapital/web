@@ -151,7 +151,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Live Stake</div>
-                                        <div class="card-static-item-value"><strong><span>15,365,843<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>197,226<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -179,13 +179,13 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Saturation</div>
-                                        <div class="card-static-item-value"><strong><span>21.7%</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>0.3%</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Lifetime Blocks</div>
-                                        <div class="card-static-item-value"><strong><span>221</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>444</span></strong></div>
                                     </div>
                                 </div>
                                 {/* </div>
@@ -193,7 +193,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Delegators</div>
-                                        <div class="card-static-item-value"><strong><span>27</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>31</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -258,8 +258,8 @@ const Staking = () => {
                                     <ul style={{ paddingLeft: '90px' }}>
                                         <li class="pt-1"><strong>Stake size award</strong>: 2% of our fixed costs will go to the delegator with the largest delegation.</li>
                                         <li class="pt-1"><strong>Loyalty award</strong>: 2% of our fixed costs will go to the delegator with the oldest delegation.</li>
-                                        <li class="pt-1">This scheme will run <strong>each epoch</strong> until pool saturation.</li>
-                                        <li class="pt-1">Once pool saturation is reached, the pool margin <strong>will be set to 1.99%.</strong></li>
+                                        {/* <li class="pt-1">This scheme will run <strong>each epoch</strong> until pool saturation.</li> */}
+                                        {/* <li class="pt-1">Once pool saturation is reached, the pool margin <strong>will be set to 1.99%.</strong></li> */}
                                     </ul>
                                 </h6>
                             </figure>
