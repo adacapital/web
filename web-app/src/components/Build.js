@@ -67,7 +67,7 @@ const Build = () => {
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="card-static slide-in-bottom">
-                            <span class="badge rounded-pill bg-success-bright-orange" style={{ float: 'right' }}><strong>IN PROGRESS</strong></span>
+                            <span class="badge rounded-pill bg-success-bright" style={{ float: 'right' }}><strong>COMPLETED</strong></span>
                             <div class="card-static-item">
                                 <div class="card-static-item-title">Project Name</div>
                                 <div class="card-static-item-value h4">
@@ -89,7 +89,7 @@ const Build = () => {
                             <div class="card-static-item">
                                 <div class="card-static-item-title">Github</div>
                                 <div class="card-static-item-value">
-                                    <a class="a-grad1 glow-on-hover" href="https://github.com/adacapital/cardanobi" target="_blank" rel="noopener noreferrer"><strong>adacapital/cardanobi</strong></a>
+                                    <a class="a-grad1 glow-on-hover" href="https://github.com/cardanobi" target="_blank" rel="noopener noreferrer"><strong>CardanoBI</strong></a>
                                 </div>
                             </div>
                         </div>

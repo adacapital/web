@@ -151,7 +151,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Live Stake</div>
-                                        <div class="card-static-item-value"><strong><span>197,226<sup> ADA</sup></span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>14,666,297<sup> ADA</sup></span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -179,13 +179,13 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Saturation</div>
-                                        <div class="card-static-item-value"><strong><span>0.3%</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>20.4%</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Lifetime Blocks</div>
-                                        <div class="card-static-item-value"><strong><span>444</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>449</span></strong></div>
                                     </div>
                                 </div>
                                 {/* </div>
@@ -193,7 +193,7 @@ const Staking = () => {
                                 <div class="col-6">
                                     <div class="card-static-item">
                                         <div class="card-static-item-title">Delegators</div>
-                                        <div class="card-static-item-value"><strong><span>31</span></strong></div>
+                                        <div class="card-static-item-value"><strong><span>33</span></strong></div>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -228,18 +228,8 @@ const Staking = () => {
                                                 </a>
                                             </div>
                                             <div class="col-12 col-lg-2">
-                                                <a class="a-lnk" href="https://adapools.org/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/ADA_pools_new-05.svg" style={{ width: '50px', height: '50px' }} alt="" title="adapools.org" /></div>
-                                                </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
                                                 <a class="a-lnk" href="https://cardanoscan.io/pool/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
                                                     <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/cardanoscan-logo-light2x.png" style={{ width: '70px', height: '20px' }} alt="" title="cardanoscan.io" /></div>
-                                                </a>
-                                            </div>
-                                            <div class="col-12 col-lg-2">
-                                                <a class="a-lnk" href="https://adatools.io/pools/22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395" target="_blank" rel="noopener noreferrer">
-                                                    <div class="card glow-on-hover align-items-center justify-content-center" style={{ width: "75px", height: "75px" }}><img src="img/uploads_ada-tools-io_1646574885408.webp" style={{ width: '50px', height: '50px' }} alt="" title="adatools.io" /></div>
                                                 </a>
                                             </div>
                                         </div>
