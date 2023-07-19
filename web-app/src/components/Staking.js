@@ -256,15 +256,16 @@ const Staking = () => {
                         </div>
                     </div>
                     <div id="cardGrp2_2_content" style={{ display: 'none' }}>
-                        <p class="large-first-letter">We are a <strong>Mission Driven</strong> pool, committed to helping others reach their full potential. To that end, every month, we will donate <strong>20%</strong> of our stake pool operator fixed fees to charities and ESG organizations with a mission to make a difference in our communities.</p>
+                        <p class="large-first-letter">We are a <strong>Mission Driven</strong> pool, committed to helping others reach their full potential. To that end, every month, we will donate <strong>10%</strong> of our stake pool operator fixed fees to charities and ESG organizations with a mission to make a difference in our communities.</p>
                         <p class="large-first-letter">By delegating to us you will support local and international communities which are less fortunate than us when it comes to access to <strong>education, health and energy</strong>.</p>
-                        <p class="large-first-letter">We are very excited to announce that we are currently supporting <a class="a-grad1 glow-on-hover" href="https://solar-aid.org/vision-mission/" target="_blank" rel="noopener noreferrer"><strong>SolarAid</strong></a> in their vision to bring <strong>clean and renewable energy</strong> to millions of people in sub-Saharan Africa.</p>
-                        <p class="large-first-letter">Please stake with us and help us <strong>End the Darkness.</strong></p>
+                        <p class="large-first-letter">We are are currently going through the selection process of the organization we will support next.</p>
+                        {/* <p class="large-first-letter">We are very excited to announce that we are currently supporting <a class="a-grad1 glow-on-hover" href="https://solar-aid.org/vision-mission/" target="_blank" rel="noopener noreferrer"><strong>SolarAid</strong></a> in their vision to bring <strong>clean and renewable energy</strong> to millions of people in sub-Saharan Africa.</p> */}
+                        {/* <p class="large-first-letter">Please stake with us and help us <strong>End the Darkness.</strong></p> */}
                         {/* <div class="html5-video-container" data-layer="0"><video class="video-stream html5-main-video" webkit-playsinline="" playsinline="" controlslist="nodownload" style={{width: '654px', height: '368px', left: '0px', top: '0px'}} src="https://www.youtube.com/daee8857-3cd8-45d4-a976-83893dfdec30"></video></div> */}
                         {/* <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom"><iframe width="560" height="315" src="https://www.youtube.com/embed/txdI0jQraXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> */}
-                        <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom">
+                        {/* <div class="d-flex align-items-center justify-content-center card-static slide-in-bottom">
                             <a class="a-grad1 glow-on-hover" href="https://bit.ly/3r27jud" target="_blank" rel="noopener noreferrer"><img src="img/charity_video.jpg" alt="" class="responsive-image" /></a>
-                        </div>
+                        </div> */}
                     </div>
                     <div id="cardGrp2_3_content" style={{ display: 'none' }}>
                         <p class="large-first-letter">We are a team of highly skilled <strong>IT Professionals</strong> with a combined <strong>20+ years</strong> of experience in managing and developing high availability, business critical, distributed systems for the Financial Services Industry.</p>
@@ -290,8 +291,6 @@ const Staking = () => {
                             <a class="a-grad1 glow-on-hover" href="https://bit.ly/3pEEwLx" target="_blank" rel="noopener noreferrer"><img src="img/badge_mainnet.webp" alt="" class="responsive-image" /></a>
                             <a class="a-grad1 glow-on-hover" href="https://bit.ly/3D3wbqQ" target="_blank" rel="noopener noreferrer"><img src="img/badge_preprod.webp" alt="" class="responsive-image" /></a>
                             <a class="a-grad1 glow-on-hover" href="https://bit.ly/3TVTgD2" target="_blank" rel="noopener noreferrer"><img src="img/badge_preview.webp" alt="" class="responsive-image" /></a>
-                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3ApV007" target="_blank" rel="noopener noreferrer"><img src="img/badge_testnetp2p.webp" alt="" class="responsive-image" /></a>
-                            <a class="a-grad1 glow-on-hover" href="https://bit.ly/3SXdBb1" target="_blank" rel="noopener noreferrer"><img src="img/badge_testnet.webp" alt="" class="responsive-image" /></a>
                         </div>
                         {/* </div> */}
                     </div>
